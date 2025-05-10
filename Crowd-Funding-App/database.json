@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Cristiano",
+      "last_name": "Ronaldo",
+      "email": "cr7@gmail.com",
+      "password": "1234567",
+      "mobile_phone": "01146538187",
+      "created_at": "2025-05-08T23:59:25.382132"
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "owner_id": 1,
+      "title": "WorldCup",
+      "details": "WC Making Cermony",
+      "total_target": 100000.0,
+      "start_date": "2030-10-10",
+      "end_date": "2030-10-20",
+      "created_at": "2025-05-09T00:19:48.096142"
+    }
+  ]
+}
